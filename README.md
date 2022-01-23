@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Izhar Ahmad</h1>
 <h3 align="center">First Year CS Undergrad @MSIT</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
+
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
@@ -22,3 +24,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/izharahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="izharahmad" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhar03&show_icons=true&locale=en" alt="izhar03" /></p>
