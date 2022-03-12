@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **personal portfolio website**
 
+- 🌟 I'm currently contributing in **GirlScript Summer of Code 2022** 
+
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
 
 - 📫 How to reach me **izharhamdan@gmail.com**
