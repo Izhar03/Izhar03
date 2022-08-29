@@ -13,14 +13,46 @@
 
 - 📫 How to reach me **izharhamdan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_izhar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_izhar03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/i-izhar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-izhar03" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13734944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13734944" height="30" width="40" /></a>
-<a href="https://instagram.com/i_izhar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_izhar03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/izharhamdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="izharhamdan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kurapika_kurta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kurapika_kurta" height="30" width="40" /></a>
-</p>
+<h2>SOCIALS:</h2>
+<a href="https://www.linkedin.com/in/i-izhar03/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/users/13734944/izhar-ahmad" target="_blank">
+    <img alt="StackOverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+ <a href="mailto:izharhamdan@gmail.com" target="_blank" >
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+ <a href="https://www.instagram.com/i_izhar03/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ <a href="https://twitter.com/i_izhar03" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+ <a href="https://www.codechef.com/users/i_izhar03" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+  </a>
+ <a href="https://www.hackerrank.com/izharhamdan" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+ <a href="https://leetcode.com/izharhamdan/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  
+  <h2> TECH I KNOW 🌻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px > </h2>
+  
+<span><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></span>
+<span><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></span>
+<span><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
+<span><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></span>
+<span><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
+<span><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></span>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhar03&show_icons=true&locale=en" alt="izhar03" /></p>
+
+
+
+
+ 
+ 
