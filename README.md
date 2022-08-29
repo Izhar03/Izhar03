@@ -1,7 +1,9 @@
+<img align="centre" src="Welcome to my GitHub.png"/>
+
+
 <h1 align="center">Hi 👋, I'm Izhar Ahmad</h1>
 <h3 align="center">Computer Science Sophmore @MSIT</h3>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I+like+working+on+algorithms." /></a>
-
 
 
 
@@ -9,7 +11,9 @@
 
 - 🔭 I’m currently working on **personal portfolio website**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in C++**
+- 🌱 I’m currently learning **Data Structures & Algorithms in C/C++**
+
+- 🌟 I'm more interested in research based roles particluarly in the area of **Algorithms**
 
 - 📫 How to reach me **izharhamdan@gmail.com**
 
@@ -49,7 +53,11 @@
 <span><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
 <span><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhar03&show_icons=true&locale=en" alt="izhar03" /></p>
+<h2> GITHUB STATS </h2>
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Izhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Izhar03&show_icons=true&count_private=true&theme=jolly" height="175px"/></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izhar03&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Izhar03" height="175px"/>
+</p>
 
 
 
