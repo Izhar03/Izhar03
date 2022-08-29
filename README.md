@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Izhar Ahmad</h1>
-<h3 align="center">First Year CS Undergrad @MSIT</h3>
+<h3 align="center">Computer Science Sophmore @MSIT</h3>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I+like+working+on+algorithms." /></a>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
 
 - 🔭 I’m currently working on **personal portfolio website**
-
-- 🌟 I'm currently contributing in **GirlScript Summer of Code 2022** 
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
 
