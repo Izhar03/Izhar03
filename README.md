@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
 
-- 🔭 I’m currently working on **Recommender Systems**
+- 🔭 I’m currently working on **Deep Reinforcement Learning in Wireless Rechargeable Sensor Network**
 
-- 🌱 I’m currently learning **Deep Learning and Advance Linear Algebra**
+- 🌱 I’m currently learning **Reinforcement Learning Algorithms And OpenAi gymnasium**
 
 - 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning and Deep Learning**
 
