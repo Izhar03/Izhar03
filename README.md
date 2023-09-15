@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Deep Reinforcement Learning in Wireless Rechargeable Sensor Network**
 
-- 🌱 I’m currently learning **Reinforcement Learning Algorithms And OpenAi gymnasium**
+- 🌱 I’m currently learning **Convolutional Neural Network and OpenCV**
 
 - 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning and Deep Learning**
 
