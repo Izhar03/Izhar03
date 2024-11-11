@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
 
-- 🔭 I’m currently working on **Automation Bots**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **SpringBoot (JAVA)**
+- 🌱 I’m currently learning **System Design**
 
 - 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning and Deep Learning**
 
