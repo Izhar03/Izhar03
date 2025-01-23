@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Typescript, Angular, AWS Services**
 
-- 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning and Deep Learning**
+- 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning, Backend SDE, AI-LLM**
 
 - 📫 How to reach me **izharhamdan@gmail.com**
 
