@@ -2,18 +2,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Izhar Ahmad</h1>
-<h3 align="center">Computer Science Final Year Undergrad @MSIT</h3>
+<h3 align="center">SWE @Inncircles</h3>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;I+like+working+on+algorithms." /></a>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **helping tenants to lease faster**
 
 - 🌱 I’m currently learning **Typescript, Angular, AWS Services**
 
-- 🌟 I'm more interested in research-based roles, particularly in the area of **Machine Learning, Backend SDE, AI-LLM**
+- 🌟 I'm more interested in research-based roles, particularly in the area of **?**
 
 - 📫 How to reach me **izharhamdan@gmail.com**
 
