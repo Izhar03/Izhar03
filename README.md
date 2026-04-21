@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar03&label=Profile%20views&color=0e75b6&style=flat" alt="izhar03" /> </p>
 
-- 🔭 I’m currently working on **helping tenants to lease faster**
+- 🔭 I’m currently working on **helping CAT aspirants getting better at reading**
 
-- 🌱 I’m currently learning **Typescript, Angular, AWS Services**
+- 🌱 I’m currently learning **MCP, Evals, LangGraph**
 
-- 🌟 I'm more interested in research-based roles, particularly in the area of **?**
+- 🌟 I'm more interested in product-based roles, particularly in the area of **?**
 
 - 📫 How to reach me **izharhamdan@gmail.com**
 
