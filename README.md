@@ -41,11 +41,6 @@
 <span><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
 <span><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></span>
 
-<h2> GITHUB STATS </h2>
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Izhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Izhar03&show_icons=true&count_private=true&theme=jolly" height="144px"/></a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izhar03&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Izhar03" height="144px"/>
-</p>
 
 
 
